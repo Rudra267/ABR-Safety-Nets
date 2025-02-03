@@ -39,6 +39,10 @@ body {
 background-color: #51cb20 !important;
 }
 
+.pink{
+  color: #ee163b !important;
+}
+
 .BottomAnime{
   transition: all 0.5s linear;
   animation: bottomTotop linear;
