@@ -7040,6 +7040,17 @@ blockquote p {
   .floating-social-icon a:nth-child(6) .text:before {
     background-color: #0f9b26;
   }
+
+  .marquee-container {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: red;
+    color: white;
+    padding: 5px 0;
+    z-index: 1000;
+}
+
   
   .stickyy-container {
     background-color: #000a5d;
