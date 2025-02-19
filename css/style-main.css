@@ -7041,6 +7041,11 @@ blockquote p {
     background-color: #0f9b26;
   }
 
+
+  .text-gray > a:hover{
+    color: #fff;
+  }
+
   .marquee-container {
     position: fixed;
     bottom: 0;
